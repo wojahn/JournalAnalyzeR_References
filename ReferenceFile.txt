@@ -19,3 +19,5 @@ Sievert C, Cheng J, Aden-Buie G (2023). _bslib: Custom
   'Bootstrap' 'Sass' Themes for 'shiny' and 'rmarkdown'_. R
   package version 0.6.1,
   <https://CRAN.R-project.org/package=bslib>.
+
+https://www.pikist.com/free-photo-suopw
