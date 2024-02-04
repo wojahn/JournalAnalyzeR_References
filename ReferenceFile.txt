@@ -1,0 +1,21 @@
+Wojahn, J., Galla, S. J., Melton, A. E., & Buerki, S.
+  (2021). G2PMineR: A Genome to Phenome Literature Review
+  Approach. Genes, 12(2), 293.
+  https://doi.org/10.3390/genes12020293
+
+Chang W, Cheng J, Allaire J, Sievert C, Schloerke B, Xie Y,
+  Allen J, McPherson J, Dipert A, Borges B (2023). _shiny: Web
+  Application Framework for R_. R package version 1.8.0,
+  <https://CRAN.R-project.org/package=shiny>.
+
+Barrett T, Dowle M, Srinivasan A (2023). _data.table:
+  Extension of `data.frame`_. R package version 1.14.10,
+  <https://CRAN.R-project.org/package=data.table>.
+
+ Park S (2022). _htm2txt: Convert Html into Text_. R package
+  version 2.2.2, <https://CRAN.R-project.org/package=htm2txt>.
+
+Sievert C, Cheng J, Aden-Buie G (2023). _bslib: Custom
+  'Bootstrap' 'Sass' Themes for 'shiny' and 'rmarkdown'_. R
+  package version 0.6.1,
+  <https://CRAN.R-project.org/package=bslib>.
